@@ -5,7 +5,7 @@ This repository contains five shell scripts and a comprehensive report outline c
 
 ## Developer Information
 - **Student Name**: Adishree Panda
-- **Registration Number**: 24
+- **Registration Number**: 24BCY10348
 - **Chosen Software**: Python
 
 ## Project Shell Scripts
